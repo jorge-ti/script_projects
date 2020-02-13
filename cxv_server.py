@@ -44,8 +44,8 @@ def del_file(arquivo):
 
 #--- Nome e local do json
 json_nome = 'cxv_server-' + data_full 
-#json_caminho = '/home/jorge/'
-json_caminho = os.environ['PWD'] + '/' 
+json_caminho = '/home/jorge/'
+#json_caminho = os.environ['PWD'] + '/' 
 
 #--- local temporário -- não mexer
 py_cxv_local_job_tmp = '/tmp/.cxv_job_tmp'
