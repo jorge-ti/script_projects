@@ -7,7 +7,7 @@
 # Update: 19/11/2019
 # Descricao: Registra todo estado atual servidor e gera um arquivo JSON
 # Crontab: * * * * * /usr/bin/python /home/extend/scripts/cxv_server.py
-#__________________________________________
+# __________________________________________
 
 import os
 import sys
